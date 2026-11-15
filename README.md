@@ -6,6 +6,8 @@
 **Course Code & Title:** MIT 8103 — Advanced Database Systems  
 **Assessment:** Individual Practical Database Portfolio (40 Marks)  
 **Selected Case Study:** **ShopEase — Enterprise Multi-Vendor E-Commerce Platform**  
+**Student Name:** Olusegun Dipeolu  
+**Student ID:** 301900734  
 **Student Submission Link:** `https://github.com/odipeolu0734/advanced-database-portfolio`  
 
 ---

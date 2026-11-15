@@ -5,6 +5,8 @@
 **Assessment Type:** Individual Practical Database Portfolio  
 **Submission Platform:** LMS + GitHub  
 **GitHub Repository:** `https://github.com/odipeolu0734/advanced-database-portfolio`  
+**Student Name:** Olusegun Dipeolu  
+**Student ID:** 301900734  
 
 ---
 
